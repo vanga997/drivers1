@@ -1,0 +1,12 @@
+C:\Users\PC02\source\repos\Driver1\Driver1\bin\Debug\Database1.mdf
+C:\Users\PC02\source\repos\Driver1\Driver1\bin\Debug\Database1_log.ldf
+C:\Users\PC02\source\repos\Driver1\Driver1\bin\Debug\Driver1.exe.config
+C:\Users\PC02\source\repos\Driver1\Driver1\bin\Debug\Driver1.exe
+C:\Users\PC02\source\repos\Driver1\Driver1\bin\Debug\Driver1.pdb
+C:\Users\PC02\source\repos\Driver1\Driver1\obj\Debug\Driver1.csprojAssemblyReference.cache
+C:\Users\PC02\source\repos\Driver1\Driver1\obj\Debug\Driver1.Form1.resources
+C:\Users\PC02\source\repos\Driver1\Driver1\obj\Debug\Driver1.Properties.Resources.resources
+C:\Users\PC02\source\repos\Driver1\Driver1\obj\Debug\Driver1.csproj.GenerateResource.cache
+C:\Users\PC02\source\repos\Driver1\Driver1\obj\Debug\Driver1.csproj.CoreCompileInputs.cache
+C:\Users\PC02\source\repos\Driver1\Driver1\obj\Debug\Driver1.exe
+C:\Users\PC02\source\repos\Driver1\Driver1\obj\Debug\Driver1.pdb
